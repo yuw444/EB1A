@@ -1,0 +1,3126 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.18)  5 FEB 2025 12:55
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/yu89975/Documents/EB1A/main.tex
+(/Users/yu89975/Documents/EB1A/main.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks20
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
+Package: dirtytalk 2010/11/21 A package making "quoting" easier
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@dirtytalk@qdepth=\count199
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip50
+\thanksmargin=\skip51
+\droptitle=\skip52
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2024/01/21 v0.5y Insert pages of external PDF documents (AM)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count266
+\calc@Bcount=\count267
+\calc@Adimen=\dimen149
+\calc@Bdimen=\dimen150
+\calc@Askip=\skip53
+\calc@Bskip=\skip54
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count268
+\calc@Cskip=\skip55
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen151
+\ESO@tempdimb=\dimen152
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+)
+\AM@pagewidth=\dimen155
+\AM@pageheight=\dimen156
+\AM@fboxrule=\dimen157
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2024/01/21 v0.5y Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count269
+\AM@pagebox=\box51
+\AM@global@opts=\toks21
+\AM@pagecnt=\count270
+\AM@toc@title=\toks22
+\AM@lof@heading=\toks23
+\c@AM@survey=\count271
+\AM@templatesizebox=\box52
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/soul/soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks24
+\SOUL@lasttoken=\toks25
+\SOUL@syllable=\toks26
+\SOUL@cmds=\toks27
+\SOUL@buffer=\toks28
+\SOUL@token=\toks29
+\SOUL@syllgoal=\dimen158
+\SOUL@syllwidth=\dimen159
+\SOUL@charkern=\dimen160
+\SOUL@hyphkern=\dimen161
+\SOUL@dimen=\dimen162
+\SOUL@dimeni=\dimen163
+\SOUL@minus=\count272
+\SOUL@comma=\count273
+\SOUL@apo=\count274
+\SOUL@grave=\count275
+\SOUL@spaceskip=\skip56
+\SOUL@ttwidth=\dimen164
+\SOUL@uldp=\dimen165
+\SOUL@ulht=\dimen166
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks30
+\ex@=\dimen167
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen168
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count276
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count277
+\leftroot@=\count278
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count279
+\DOTSCASE@=\count280
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen169
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count281
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count282
+\dotsspace@=\muskip16
+\c@parentequation=\count283
+\dspbrk@lvl=\count284
+\tag@help=\toks31
+\row@=\count285
+\column@=\count286
+\maxfields@=\count287
+\andhelp@=\toks32
+\eqnshift@=\dimen170
+\alignsep@=\dimen171
+\tagshift@=\dimen172
+\tagwidth@=\dimen173
+\totwidth@=\dimen174
+\lineht@=\dimen175
+\@envbody=\toks33
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks34
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen176
+\captionmargin=\dimen177
+\caption@leftmargin=\dimen178
+\caption@rightmargin=\dimen179
+\caption@width=\dimen180
+\caption@indent=\dimen181
+\caption@parindent=\dimen182
+\caption@hangindent=\dimen183
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count288
+\c@continuedfloat=\count289
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/isodate/isodate.sty
+Package: isodate 2010/01/03 v2.30 Print dates with different formats (HH)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/substr/substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count290
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/isodate/english.idf
+File: english.idf 2010/01/03 v2.30 Language definitions for isodate package (HH)
+
+Define commands for English date format
+)
+\c@iso@tmpmonth=\count291
+\c@iso@yeartwo=\count292
+\c@iso@slash=\count293
+\c@iso@minus=\count294
+\c@iso@dot=\count295
+\c@iso@@slash=\count296
+\c@iso@@minus=\count297
+\c@iso@@dot=\count298
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2023/05/20 line numbers on paragraphs v5.3
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count299
+)
+\linenopenalty=\count300
+\output=\toks35
+\linenoprevgraf=\count301
+\linenumbersep=\dimen184
+\linenumberwidth=\dimen185
+\c@linenumber=\count302
+\c@pagewiselinenumber=\count303
+\c@LN@truepage=\count304
+
+
+Package lineno Warning: Option [displaymath] is obsolete.
+
+\c@internallinenumber=\count305
+\c@internallinenumbers=\count306
+\quotelinenumbersep=\dimen186
+\bframerule=\dimen187
+\bframesep=\dimen188
+\bframebox=\box55
+\linenoamsmath@ams@eqpen=\count307
+LaTeX Info: Redefining \\ on input line 3180.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
+\MT@toks=\toks36
+\MT@tempbox=\box56
+\MT@count=\count308
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
+LaTeX Info: Redefining \leftprotrusion on input line 1060.
+\MT@prot@toks=\toks37
+LaTeX Info: Redefining \rightprotrusion on input line 1078.
+LaTeX Info: Redefining \textls on input line 1368.
+\MT@outer@kern=\dimen189
+LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
+\MT@listname@count=\count309
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip60
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/siunits/SIunits.sty
+Package: SIunits 2007/12/02 v1.36 Support for the International System of units (MH)
+
+
+\@qskwidth=\skip61
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 46.
+\symgreek=\mathgroup6
+(/usr/local/texlive/2024/texmf-dist/tex/latex/siunits/SIunits.cfg)
+Option `amssymb' provided!
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/tabfigures/tabfigures.sty
+Package: tabfigures 2012/01/24 v1.1 Patches for using tabular figures
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip62
+\f@nch@O@elh=\skip63
+\f@nch@O@erh=\skip64
+\f@nch@O@olh=\skip65
+\f@nch@O@orh=\skip66
+\f@nch@O@elf=\skip67
+\f@nch@O@erf=\skip68
+\f@nch@O@olf=\skip69
+\f@nch@O@orf=\skip70
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks38
+\pgfutil@tempdima=\dimen190
+\pgfutil@tempdimb=\dimen191
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box57
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks39
+\pgfkeys@temptoks=\toks40
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks41
+))
+\pgf@x=\dimen192
+\pgf@y=\dimen193
+\pgf@xa=\dimen194
+\pgf@ya=\dimen195
+\pgf@xb=\dimen196
+\pgf@yb=\dimen197
+\pgf@xc=\dimen198
+\pgf@yc=\dimen199
+\pgf@xd=\dimen256
+\pgf@yd=\dimen257
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count310
+\c@pgf@countb=\count311
+\c@pgf@countc=\count312
+\c@pgf@countd=\count313
+\t@pgf@toka=\toks42
+\t@pgf@tokb=\toks43
+\t@pgf@tokc=\toks44
+\pgf@sys@id@count=\count314
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count315
+\pgfsyssoftpath@bigbuffer@items=\count316
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen258
+\pgfmath@count=\count317
+\pgfmath@box=\box58
+\pgfmath@toks=\toks45
+\pgfmath@stack@operand=\toks46
+\pgfmath@stack@operation=\toks47
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count318
+)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen259
+\pgf@picmaxx=\dimen260
+\pgf@picminy=\dimen261
+\pgf@picmaxy=\dimen262
+\pgf@pathminx=\dimen263
+\pgf@pathmaxx=\dimen264
+\pgf@pathminy=\dimen265
+\pgf@pathmaxy=\dimen266
+\pgf@xx=\dimen267
+\pgf@xy=\dimen268
+\pgf@yx=\dimen269
+\pgf@yy=\dimen270
+\pgf@zx=\dimen271
+\pgf@zy=\dimen272
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen273
+\pgf@path@lasty=\dimen274
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen275
+\pgf@shorten@start@additional=\dimen276
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box59
+\pgf@hbox=\box60
+\pgf@layerbox@main=\box61
+\pgf@picture@serial@count=\count319
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen277
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen278
+\pgf@pt@y=\dimen279
+\pgf@pt@temp=\dimen280
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen281
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen282
+\pgf@sys@shading@range@num=\count320
+\pgf@shadingcount=\count321
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box62
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box63
+) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen283
+\pgf@nodesepend=\dimen284
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2024/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen285
+\pgffor@skip=\dimen286
+\pgffor@stack=\toks48
+\pgffor@toks=\toks49
+)) (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count322
+\pgfplotmarksize=\dimen287
+)
+\tikz@lastx=\dimen288
+\tikz@lasty=\dimen289
+\tikz@lastxsaved=\dimen290
+\tikz@lastysaved=\dimen291
+\tikz@lastmovetox=\dimen292
+\tikz@lastmovetoy=\dimen293
+\tikzleveldistance=\dimen294
+\tikzsiblingdistance=\dimen295
+\tikz@figbox=\box64
+\tikz@figbox@bg=\box65
+\tikz@tempbox=\box66
+\tikz@tempbox@bg=\box67
+\tikztreelevel=\count323
+\tikznumberofchildren=\count324
+\tikznumberofcurrentchild=\count325
+\tikz@fig@count=\count326
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count327
+\pgfmatrixcurrentcolumn=\count328
+\pgf@matrix@numberofcolumns=\count329
+)
+\tikz@expandcount=\count330
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count331
+\l__pdf_internal_box=\box68
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(59.75095pt, 494.7931pt, 59.75095pt)
+* v-part:(T,H,B)=(59.75095pt, 675.4681pt, 59.75095pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=494.7931pt
+* \textheight=675.4681pt
+* \oddsidemargin=-12.51904pt
+* \evensidemargin=-12.51904pt
+* \topmargin=-49.51904pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count332
+\scratchdimen=\dimen296
+\scratchbox=\box69
+\nofMPsegments=\count333
+\nofMParguments=\count334
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count335
+\MPscratchDim=\dimen297
+\MPnumerator=\count336
+\makeMPintoPDFobject=\count337
+\everyMPtoPDFconversion=\toks51
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+isodate: babel.sty, (n)german.sty have not been loaded
+LaTeX Info: Redefining \microtypecontext on input line 73.
+Package microtype Info: Applying patch `item' on input line 73.
+Package microtype Info: Applying patch `toc' on input line 73.
+Package microtype Info: Applying patch `eqnum' on input line 73.
+Package microtype Info: Applying patch `footnote' on input line 73.
+Package microtype Info: Applying patch `verbatim' on input line 73.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 73.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+Option `amssymb' provided! 
+ Command \square redefined by SIunits package!
+
+
+Package tabfigures Warning: There is no command \tbfigures to support tabular figures.
+
+<aux/check.jpeg, id=4, 722.7pt x 318.43968pt>
+File: aux/check.jpeg Graphic file (type jpg)
+<use aux/check.jpeg>
+Package pdftex.def Info: aux/check.jpeg  used on input line 83.
+(pdftex.def)             Requested size: 395.83598pt x 174.41351pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./aux/check.jpeg>]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 128.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 128.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-eur.cfg
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+)
+
+LaTeX Warning: Reference `awards' on page 2 undefined on input line 170.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--239
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--257
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--266
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--282
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 289--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--296
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 299--302
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--308
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--429
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--442
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--446
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 447--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--452
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--455
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 460--461
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--465
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 466--468
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--471
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 477--478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--481
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 482--483
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 490--491
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 494--495
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--501
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--508
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 527--528
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--530
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--532
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--545
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--549
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 557--558
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--560
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--566
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 580--581
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--584
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--586
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 589--590
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--593
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 597--598
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[22]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[23]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 716--717
+[]\OT1/cmr/m/n/10.95 (+20) Achievements of the MIT PDA, as listed on the MIT PDA web-site
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[25]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[26]
+<aux/RazvanMarinescu_CV.pdf, id=95, 597.50829pt x 845.0471pt>
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf  used on input line 774.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf  used on input line 774.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<aux/RazvanMarinescu_CV.pdf, id=98, page=1, 597.50829pt x 845.0471pt>
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf, page 1>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf , page1 used on input line 774.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf, page 1>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf , page1 used on input line 774.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+ [27]
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf, page 1>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf , page1 used on input line 774.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf, page 1>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf , page1 used on input line 774.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf, page 1>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf , page1 used on input line 774.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+ [28
+
+ <./aux/RazvanMarinescu_CV.pdf>]
+<aux/RazvanMarinescu_CV.pdf, id=149, page=2, 597.50829pt x 845.0471pt>
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf, page 2>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf , page2 used on input line 774.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf, page 2>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf , page2 used on input line 774.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf, page 2>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf , page2 used on input line 774.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+ [29
+
+ <./aux/RazvanMarinescu_CV.pdf>]
+<aux/RazvanMarinescu_CV.pdf, id=159, page=3, 597.50829pt x 845.0471pt>
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf, page 3>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf , page3 used on input line 774.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf, page 3>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf , page3 used on input line 774.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf, page 3>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf , page3 used on input line 774.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+ [30
+
+ <./aux/RazvanMarinescu_CV.pdf>]
+<aux/RazvanMarinescu_CV.pdf, id=163, page=4, 597.50829pt x 845.0471pt>
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf, page 4>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf , page4 used on input line 774.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf, page 4>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf , page4 used on input line 774.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf, page 4>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf , page4 used on input line 774.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+ [31
+
+ <./aux/RazvanMarinescu_CV.pdf>]
+<aux/RazvanMarinescu_CV.pdf, id=168, page=5, 597.50829pt x 845.0471pt>
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf, page 5>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf , page5 used on input line 774.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf, page 5>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf , page5 used on input line 774.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: aux/RazvanMarinescu_CV.pdf Graphic file (type pdf)
+<use aux/RazvanMarinescu_CV.pdf, page 5>
+Package pdftex.def Info: aux/RazvanMarinescu_CV.pdf , page5 used on input line 774.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+ [32
+
+ <./aux/RazvanMarinescu_CV.pdf>]
+<aux/google_scholar.pdf, id=178, 598.15468pt x 846.0408pt>
+File: aux/google_scholar.pdf Graphic file (type pdf)
+<use aux/google_scholar.pdf>
+Package pdftex.def Info: aux/google_scholar.pdf  used on input line 777.
+(pdftex.def)             Requested size: 598.15321pt x 846.03874pt.
+File: aux/google_scholar.pdf Graphic file (type pdf)
+<use aux/google_scholar.pdf>
+Package pdftex.def Info: aux/google_scholar.pdf  used on input line 777.
+(pdftex.def)             Requested size: 598.15321pt x 846.03874pt.
+<aux/google_scholar.pdf, id=181, page=1, 598.15468pt x 846.0408pt>
+File: aux/google_scholar.pdf Graphic file (type pdf)
+<use aux/google_scholar.pdf, page 1>
+Package pdftex.def Info: aux/google_scholar.pdf , page1 used on input line 777.
+(pdftex.def)             Requested size: 598.15321pt x 846.03874pt.
+File: aux/google_scholar.pdf Graphic file (type pdf)
+<use aux/google_scholar.pdf, page 1>
+Package pdftex.def Info: aux/google_scholar.pdf , page1 used on input line 777.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+ [33]
+File: aux/google_scholar.pdf Graphic file (type pdf)
+<use aux/google_scholar.pdf, page 1>
+Package pdftex.def Info: aux/google_scholar.pdf , page1 used on input line 777.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/google_scholar.pdf Graphic file (type pdf)
+<use aux/google_scholar.pdf, page 1>
+Package pdftex.def Info: aux/google_scholar.pdf , page1 used on input line 777.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/google_scholar.pdf Graphic file (type pdf)
+<use aux/google_scholar.pdf, page 1>
+Package pdftex.def Info: aux/google_scholar.pdf , page1 used on input line 777.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+ [34
+
+ <./aux/google_scholar.pdf
+
+pdfTeX warning: pdflatex (file ./aux/google_scholar.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<aux/google_scholar.pdf, id=197, page=2, 598.15468pt x 846.0408pt>
+File: aux/google_scholar.pdf Graphic file (type pdf)
+<use aux/google_scholar.pdf, page 2>
+Package pdftex.def Info: aux/google_scholar.pdf , page2 used on input line 777.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/google_scholar.pdf Graphic file (type pdf)
+<use aux/google_scholar.pdf, page 2>
+Package pdftex.def Info: aux/google_scholar.pdf , page2 used on input line 777.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/google_scholar.pdf Graphic file (type pdf)
+<use aux/google_scholar.pdf, page 2>
+Package pdftex.def Info: aux/google_scholar.pdf , page2 used on input line 777.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+ [35
+
+ <./aux/google_scholar.pdf
+
+pdfTeX warning: pdflatex (file ./aux/google_scholar.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<aux/google_scholar.pdf, id=201, page=3, 598.15468pt x 846.0408pt>
+File: aux/google_scholar.pdf Graphic file (type pdf)
+<use aux/google_scholar.pdf, page 3>
+Package pdftex.def Info: aux/google_scholar.pdf , page3 used on input line 777.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/google_scholar.pdf Graphic file (type pdf)
+<use aux/google_scholar.pdf, page 3>
+Package pdftex.def Info: aux/google_scholar.pdf , page3 used on input line 777.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/google_scholar.pdf Graphic file (type pdf)
+<use aux/google_scholar.pdf, page 3>
+Package pdftex.def Info: aux/google_scholar.pdf , page3 used on input line 777.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+ [36
+
+ <./aux/google_scholar.pdf
+
+pdfTeX warning: pdflatex (file ./aux/google_scholar.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>] [37]
+<letters/letter_uz.pdf, id=209, 614.295pt x 794.97pt>
+File: letters/letter_uz.pdf Graphic file (type pdf)
+<use letters/letter_uz.pdf>
+Package pdftex.def Info: letters/letter_uz.pdf  used on input line 794.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: letters/letter_uz.pdf Graphic file (type pdf)
+<use letters/letter_uz.pdf>
+Package pdftex.def Info: letters/letter_uz.pdf  used on input line 794.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<letters/letter_uz.pdf, id=212, page=1, 614.295pt x 794.97pt>
+File: letters/letter_uz.pdf Graphic file (type pdf)
+<use letters/letter_uz.pdf, page 1>
+Package pdftex.def Info: letters/letter_uz.pdf , page1 used on input line 794.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: letters/letter_uz.pdf Graphic file (type pdf)
+<use letters/letter_uz.pdf, page 1>
+Package pdftex.def Info: letters/letter_uz.pdf , page1 used on input line 794.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [38]
+File: letters/letter_uz.pdf Graphic file (type pdf)
+<use letters/letter_uz.pdf, page 1>
+Package pdftex.def Info: letters/letter_uz.pdf , page1 used on input line 794.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: letters/letter_uz.pdf Graphic file (type pdf)
+<use letters/letter_uz.pdf, page 1>
+Package pdftex.def Info: letters/letter_uz.pdf , page1 used on input line 794.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: letters/letter_uz.pdf Graphic file (type pdf)
+<use letters/letter_uz.pdf, page 1>
+Package pdftex.def Info: letters/letter_uz.pdf , page1 used on input line 794.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [39
+
+ <./letters/letter_uz.pdf>]
+<letters/letter_uz.pdf, id=244, page=2, 614.295pt x 794.97pt>
+File: letters/letter_uz.pdf Graphic file (type pdf)
+<use letters/letter_uz.pdf, page 2>
+Package pdftex.def Info: letters/letter_uz.pdf , page2 used on input line 794.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: letters/letter_uz.pdf Graphic file (type pdf)
+<use letters/letter_uz.pdf, page 2>
+Package pdftex.def Info: letters/letter_uz.pdf , page2 used on input line 794.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: letters/letter_uz.pdf Graphic file (type pdf)
+<use letters/letter_uz.pdf, page 2>
+Package pdftex.def Info: letters/letter_uz.pdf , page2 used on input line 794.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [40
+
+ <./letters/letter_uz.pdf>]
+<letters/letter_uz.pdf, id=249, page=3, 614.295pt x 794.97pt>
+File: letters/letter_uz.pdf Graphic file (type pdf)
+<use letters/letter_uz.pdf, page 3>
+Package pdftex.def Info: letters/letter_uz.pdf , page3 used on input line 794.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: letters/letter_uz.pdf Graphic file (type pdf)
+<use letters/letter_uz.pdf, page 3>
+Package pdftex.def Info: letters/letter_uz.pdf , page3 used on input line 794.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: letters/letter_uz.pdf Graphic file (type pdf)
+<use letters/letter_uz.pdf, page 3>
+Package pdftex.def Info: letters/letter_uz.pdf , page3 used on input line 794.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [41
+
+ <./letters/letter_uz.pdf>]
+<letters/letter_gc.pdf, id=257, 597.19112pt x 844.11362pt>
+File: letters/letter_gc.pdf Graphic file (type pdf)
+<use letters/letter_gc.pdf>
+Package pdftex.def Info: letters/letter_gc.pdf  used on input line 797.
+(pdftex.def)             Requested size: 597.18967pt x 844.11156pt.
+File: letters/letter_gc.pdf Graphic file (type pdf)
+<use letters/letter_gc.pdf>
+Package pdftex.def Info: letters/letter_gc.pdf  used on input line 797.
+(pdftex.def)             Requested size: 597.18967pt x 844.11156pt.
+<letters/letter_gc.pdf, id=260, page=1, 597.19112pt x 844.11362pt>
+File: letters/letter_gc.pdf Graphic file (type pdf)
+<use letters/letter_gc.pdf, page 1>
+Package pdftex.def Info: letters/letter_gc.pdf , page1 used on input line 797.
+(pdftex.def)             Requested size: 597.18967pt x 844.11156pt.
+File: letters/letter_gc.pdf Graphic file (type pdf)
+<use letters/letter_gc.pdf, page 1>
+Package pdftex.def Info: letters/letter_gc.pdf , page1 used on input line 797.
+(pdftex.def)             Requested size: 562.48967pt x 795.06406pt.
+ [42]
+File: letters/letter_gc.pdf Graphic file (type pdf)
+<use letters/letter_gc.pdf, page 1>
+Package pdftex.def Info: letters/letter_gc.pdf , page1 used on input line 797.
+(pdftex.def)             Requested size: 562.48967pt x 795.06406pt.
+File: letters/letter_gc.pdf Graphic file (type pdf)
+<use letters/letter_gc.pdf, page 1>
+Package pdftex.def Info: letters/letter_gc.pdf , page1 used on input line 797.
+(pdftex.def)             Requested size: 562.48967pt x 795.06406pt.
+File: letters/letter_gc.pdf Graphic file (type pdf)
+<use letters/letter_gc.pdf, page 1>
+Package pdftex.def Info: letters/letter_gc.pdf , page1 used on input line 797.
+(pdftex.def)             Requested size: 562.48967pt x 795.06406pt.
+ [43
+
+ <./letters/letter_gc.pdf>]
+<letters/letter_gc.pdf, id=283, page=2, 597.19112pt x 844.11362pt>
+File: letters/letter_gc.pdf Graphic file (type pdf)
+<use letters/letter_gc.pdf, page 2>
+Package pdftex.def Info: letters/letter_gc.pdf , page2 used on input line 797.
+(pdftex.def)             Requested size: 562.48967pt x 795.06406pt.
+File: letters/letter_gc.pdf Graphic file (type pdf)
+<use letters/letter_gc.pdf, page 2>
+Package pdftex.def Info: letters/letter_gc.pdf , page2 used on input line 797.
+(pdftex.def)             Requested size: 562.48967pt x 795.06406pt.
+File: letters/letter_gc.pdf Graphic file (type pdf)
+<use letters/letter_gc.pdf, page 2>
+Package pdftex.def Info: letters/letter_gc.pdf , page2 used on input line 797.
+(pdftex.def)             Requested size: 562.48967pt x 795.06406pt.
+ [44
+
+ <./letters/letter_gc.pdf>]
+<letters/letter_tf.pdf, id=295, 597.23125pt x 845.1575pt>
+File: letters/letter_tf.pdf Graphic file (type pdf)
+<use letters/letter_tf.pdf>
+Package pdftex.def Info: letters/letter_tf.pdf  used on input line 800.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: letters/letter_tf.pdf Graphic file (type pdf)
+<use letters/letter_tf.pdf>
+Package pdftex.def Info: letters/letter_tf.pdf  used on input line 800.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+<letters/letter_tf.pdf, id=298, page=1, 597.23125pt x 845.1575pt>
+File: letters/letter_tf.pdf Graphic file (type pdf)
+<use letters/letter_tf.pdf, page 1>
+Package pdftex.def Info: letters/letter_tf.pdf , page1 used on input line 800.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: letters/letter_tf.pdf Graphic file (type pdf)
+<use letters/letter_tf.pdf, page 1>
+Package pdftex.def Info: letters/letter_tf.pdf , page1 used on input line 800.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [45]
+File: letters/letter_tf.pdf Graphic file (type pdf)
+<use letters/letter_tf.pdf, page 1>
+Package pdftex.def Info: letters/letter_tf.pdf , page1 used on input line 800.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: letters/letter_tf.pdf Graphic file (type pdf)
+<use letters/letter_tf.pdf, page 1>
+Package pdftex.def Info: letters/letter_tf.pdf , page1 used on input line 800.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: letters/letter_tf.pdf Graphic file (type pdf)
+<use letters/letter_tf.pdf, page 1>
+Package pdftex.def Info: letters/letter_tf.pdf , page1 used on input line 800.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [46
+
+ <./letters/letter_tf.pdf>]
+<letters/letter_tf.pdf, id=321, page=2, 597.23125pt x 845.1575pt>
+File: letters/letter_tf.pdf Graphic file (type pdf)
+<use letters/letter_tf.pdf, page 2>
+Package pdftex.def Info: letters/letter_tf.pdf , page2 used on input line 800.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: letters/letter_tf.pdf Graphic file (type pdf)
+<use letters/letter_tf.pdf, page 2>
+Package pdftex.def Info: letters/letter_tf.pdf , page2 used on input line 800.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: letters/letter_tf.pdf Graphic file (type pdf)
+<use letters/letter_tf.pdf, page 2>
+Package pdftex.def Info: letters/letter_tf.pdf , page2 used on input line 800.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [47
+
+ <./letters/letter_tf.pdf>]
+<letters/letter_ti.pdf, id=327, 614.295pt x 794.97pt>
+File: letters/letter_ti.pdf Graphic file (type pdf)
+<use letters/letter_ti.pdf>
+Package pdftex.def Info: letters/letter_ti.pdf  used on input line 803.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: letters/letter_ti.pdf Graphic file (type pdf)
+<use letters/letter_ti.pdf>
+Package pdftex.def Info: letters/letter_ti.pdf  used on input line 803.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<letters/letter_ti.pdf, id=330, page=1, 614.295pt x 794.97pt>
+File: letters/letter_ti.pdf Graphic file (type pdf)
+<use letters/letter_ti.pdf, page 1>
+Package pdftex.def Info: letters/letter_ti.pdf , page1 used on input line 803.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: letters/letter_ti.pdf Graphic file (type pdf)
+<use letters/letter_ti.pdf, page 1>
+Package pdftex.def Info: letters/letter_ti.pdf , page1 used on input line 803.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [48]
+File: letters/letter_ti.pdf Graphic file (type pdf)
+<use letters/letter_ti.pdf, page 1>
+Package pdftex.def Info: letters/letter_ti.pdf , page1 used on input line 803.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: letters/letter_ti.pdf Graphic file (type pdf)
+<use letters/letter_ti.pdf, page 1>
+Package pdftex.def Info: letters/letter_ti.pdf , page1 used on input line 803.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: letters/letter_ti.pdf Graphic file (type pdf)
+<use letters/letter_ti.pdf, page 1>
+Package pdftex.def Info: letters/letter_ti.pdf , page1 used on input line 803.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [49
+
+ <./letters/letter_ti.pdf>]
+<letters/letter_ti.pdf, id=360, page=2, 614.295pt x 794.97pt>
+File: letters/letter_ti.pdf Graphic file (type pdf)
+<use letters/letter_ti.pdf, page 2>
+Package pdftex.def Info: letters/letter_ti.pdf , page2 used on input line 803.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: letters/letter_ti.pdf Graphic file (type pdf)
+<use letters/letter_ti.pdf, page 2>
+Package pdftex.def Info: letters/letter_ti.pdf , page2 used on input line 803.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: letters/letter_ti.pdf Graphic file (type pdf)
+<use letters/letter_ti.pdf, page 2>
+Package pdftex.def Info: letters/letter_ti.pdf , page2 used on input line 803.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [50
+
+ <./letters/letter_ti.pdf>]
+<letters/letter_di.pdf, id=369, 614.295pt x 795.48994pt>
+File: letters/letter_di.pdf Graphic file (type pdf)
+<use letters/letter_di.pdf>
+Package pdftex.def Info: letters/letter_di.pdf  used on input line 806.
+(pdftex.def)             Requested size: 614.29349pt x 795.48799pt.
+File: letters/letter_di.pdf Graphic file (type pdf)
+<use letters/letter_di.pdf>
+Package pdftex.def Info: letters/letter_di.pdf  used on input line 806.
+(pdftex.def)             Requested size: 614.29349pt x 795.48799pt.
+<letters/letter_di.pdf, id=372, page=1, 614.295pt x 795.48994pt>
+File: letters/letter_di.pdf Graphic file (type pdf)
+<use letters/letter_di.pdf, page 1>
+Package pdftex.def Info: letters/letter_di.pdf , page1 used on input line 806.
+(pdftex.def)             Requested size: 614.29349pt x 795.48799pt.
+File: letters/letter_di.pdf Graphic file (type pdf)
+<use letters/letter_di.pdf, page 1>
+Package pdftex.def Info: letters/letter_di.pdf , page1 used on input line 806.
+(pdftex.def)             Requested size: 614.26537pt x 795.45157pt.
+ [51]
+File: letters/letter_di.pdf Graphic file (type pdf)
+<use letters/letter_di.pdf, page 1>
+Package pdftex.def Info: letters/letter_di.pdf , page1 used on input line 806.
+(pdftex.def)             Requested size: 614.26537pt x 795.45157pt.
+File: letters/letter_di.pdf Graphic file (type pdf)
+<use letters/letter_di.pdf, page 1>
+Package pdftex.def Info: letters/letter_di.pdf , page1 used on input line 806.
+(pdftex.def)             Requested size: 614.26537pt x 795.45157pt.
+File: letters/letter_di.pdf Graphic file (type pdf)
+<use letters/letter_di.pdf, page 1>
+Package pdftex.def Info: letters/letter_di.pdf , page1 used on input line 806.
+(pdftex.def)             Requested size: 614.26537pt x 795.45157pt.
+ [52
+
+ <./letters/letter_di.pdf>]
+<letters/letter_di.pdf, id=404, page=2, 614.295pt x 795.48994pt>
+File: letters/letter_di.pdf Graphic file (type pdf)
+<use letters/letter_di.pdf, page 2>
+Package pdftex.def Info: letters/letter_di.pdf , page2 used on input line 806.
+(pdftex.def)             Requested size: 614.26537pt x 795.45157pt.
+File: letters/letter_di.pdf Graphic file (type pdf)
+<use letters/letter_di.pdf, page 2>
+Package pdftex.def Info: letters/letter_di.pdf , page2 used on input line 806.
+(pdftex.def)             Requested size: 614.26537pt x 795.45157pt.
+File: letters/letter_di.pdf Graphic file (type pdf)
+<use letters/letter_di.pdf, page 2>
+Package pdftex.def Info: letters/letter_di.pdf , page2 used on input line 806.
+(pdftex.def)             Requested size: 614.26537pt x 795.45157pt.
+ [53
+
+ <./letters/letter_di.pdf>]
+<letters/letter_fc.pdf, id=411, 614.295pt x 794.97pt>
+File: letters/letter_fc.pdf Graphic file (type pdf)
+<use letters/letter_fc.pdf>
+Package pdftex.def Info: letters/letter_fc.pdf  used on input line 809.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: letters/letter_fc.pdf Graphic file (type pdf)
+<use letters/letter_fc.pdf>
+Package pdftex.def Info: letters/letter_fc.pdf  used on input line 809.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<letters/letter_fc.pdf, id=414, page=1, 614.295pt x 794.97pt>
+File: letters/letter_fc.pdf Graphic file (type pdf)
+<use letters/letter_fc.pdf, page 1>
+Package pdftex.def Info: letters/letter_fc.pdf , page1 used on input line 809.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: letters/letter_fc.pdf Graphic file (type pdf)
+<use letters/letter_fc.pdf, page 1>
+Package pdftex.def Info: letters/letter_fc.pdf , page1 used on input line 809.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [54]
+File: letters/letter_fc.pdf Graphic file (type pdf)
+<use letters/letter_fc.pdf, page 1>
+Package pdftex.def Info: letters/letter_fc.pdf , page1 used on input line 809.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: letters/letter_fc.pdf Graphic file (type pdf)
+<use letters/letter_fc.pdf, page 1>
+Package pdftex.def Info: letters/letter_fc.pdf , page1 used on input line 809.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: letters/letter_fc.pdf Graphic file (type pdf)
+<use letters/letter_fc.pdf, page 1>
+Package pdftex.def Info: letters/letter_fc.pdf , page1 used on input line 809.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [55
+
+ <./letters/letter_fc.pdf>]
+<letters/letter_fc.pdf, id=435, page=2, 614.295pt x 794.97pt>
+File: letters/letter_fc.pdf Graphic file (type pdf)
+<use letters/letter_fc.pdf, page 2>
+Package pdftex.def Info: letters/letter_fc.pdf , page2 used on input line 809.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: letters/letter_fc.pdf Graphic file (type pdf)
+<use letters/letter_fc.pdf, page 2>
+Package pdftex.def Info: letters/letter_fc.pdf , page2 used on input line 809.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: letters/letter_fc.pdf Graphic file (type pdf)
+<use letters/letter_fc.pdf, page 2>
+Package pdftex.def Info: letters/letter_fc.pdf , page2 used on input line 809.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [56
+
+ <./letters/letter_fc.pdf>]
+<letters/letter_fc.pdf, id=442, page=3, 614.295pt x 794.97pt>
+File: letters/letter_fc.pdf Graphic file (type pdf)
+<use letters/letter_fc.pdf, page 3>
+Package pdftex.def Info: letters/letter_fc.pdf , page3 used on input line 809.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: letters/letter_fc.pdf Graphic file (type pdf)
+<use letters/letter_fc.pdf, page 3>
+Package pdftex.def Info: letters/letter_fc.pdf , page3 used on input line 809.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: letters/letter_fc.pdf Graphic file (type pdf)
+<use letters/letter_fc.pdf, page 3>
+Package pdftex.def Info: letters/letter_fc.pdf , page3 used on input line 809.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [57
+
+ <./letters/letter_fc.pdf>]
+<articles/phd_thesis.pdf, id=455, 597.50829pt x 845.0471pt>
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf>
+Package pdftex.def Info: articles/phd_thesis.pdf  used on input line 812.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf>
+Package pdftex.def Info: articles/phd_thesis.pdf  used on input line 812.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<articles/phd_thesis.pdf, id=458, page=1, 597.50829pt x 845.0471pt>
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 1>
+Package pdftex.def Info: articles/phd_thesis.pdf , page1 used on input line 812.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 1>
+Package pdftex.def Info: articles/phd_thesis.pdf , page1 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+ [58]
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 1>
+Package pdftex.def Info: articles/phd_thesis.pdf , page1 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 1>
+Package pdftex.def Info: articles/phd_thesis.pdf , page1 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 1>
+Package pdftex.def Info: articles/phd_thesis.pdf , page1 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+ [59
+
+ <./articles/phd_thesis.pdf>]
+<articles/phd_thesis.pdf, id=483, page=2, 597.50829pt x 845.0471pt>
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 2>
+Package pdftex.def Info: articles/phd_thesis.pdf , page2 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 2>
+Package pdftex.def Info: articles/phd_thesis.pdf , page2 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 2>
+Package pdftex.def Info: articles/phd_thesis.pdf , page2 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+ [60
+
+ <./articles/phd_thesis.pdf>]
+<articles/phd_thesis.pdf, id=492, page=3, 597.50829pt x 845.0471pt>
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 3>
+Package pdftex.def Info: articles/phd_thesis.pdf , page3 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 3>
+Package pdftex.def Info: articles/phd_thesis.pdf , page3 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 3>
+Package pdftex.def Info: articles/phd_thesis.pdf , page3 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+ [61
+
+ <./articles/phd_thesis.pdf>]
+<articles/phd_thesis.pdf, id=497, page=4, 597.50829pt x 845.0471pt>
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 4>
+Package pdftex.def Info: articles/phd_thesis.pdf , page4 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 4>
+Package pdftex.def Info: articles/phd_thesis.pdf , page4 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 4>
+Package pdftex.def Info: articles/phd_thesis.pdf , page4 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+ [62
+
+ <./articles/phd_thesis.pdf>]
+<articles/phd_thesis.pdf, id=501, page=5, 597.50829pt x 845.0471pt>
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 5>
+Package pdftex.def Info: articles/phd_thesis.pdf , page5 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 5>
+Package pdftex.def Info: articles/phd_thesis.pdf , page5 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 5>
+Package pdftex.def Info: articles/phd_thesis.pdf , page5 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+ [63
+
+ <./articles/phd_thesis.pdf>]
+<articles/phd_thesis.pdf, id=505, page=6, 597.50829pt x 845.0471pt>
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 6>
+Package pdftex.def Info: articles/phd_thesis.pdf , page6 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 6>
+Package pdftex.def Info: articles/phd_thesis.pdf , page6 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 6>
+Package pdftex.def Info: articles/phd_thesis.pdf , page6 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+ [64
+
+ <./articles/phd_thesis.pdf>]
+<articles/phd_thesis.pdf, id=514, page=7, 597.50829pt x 845.0471pt>
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 7>
+Package pdftex.def Info: articles/phd_thesis.pdf , page7 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 7>
+Package pdftex.def Info: articles/phd_thesis.pdf , page7 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: articles/phd_thesis.pdf Graphic file (type pdf)
+<use articles/phd_thesis.pdf, page 7>
+Package pdftex.def Info: articles/phd_thesis.pdf , page7 used on input line 812.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+ [65
+
+ <./articles/phd_thesis.pdf>]
+Underfull \hbox (badness 1983) in paragraph at lines 820--821
+[]\OT1/cmr/m/n/10.95 (+20) Media ar-ti-cle from Alz-fo-rum about the re-sults and find-ings of the TAD-POLE Chal-
+ []
+
+<aux/tadpole_press.pdf, id=518, 597.19106pt x 844.11356pt>
+File: aux/tadpole_press.pdf Graphic file (type pdf)
+<use aux/tadpole_press.pdf>
+Package pdftex.def Info: aux/tadpole_press.pdf  used on input line 827.
+(pdftex.def)             Requested size: 597.1896pt x 844.1115pt.
+File: aux/tadpole_press.pdf Graphic file (type pdf)
+<use aux/tadpole_press.pdf>
+Package pdftex.def Info: aux/tadpole_press.pdf  used on input line 827.
+(pdftex.def)             Requested size: 597.1896pt x 844.1115pt.
+<aux/tadpole_press.pdf, id=521, page=1, 597.19106pt x 844.11356pt>
+File: aux/tadpole_press.pdf Graphic file (type pdf)
+<use aux/tadpole_press.pdf, page 1>
+Package pdftex.def Info: aux/tadpole_press.pdf , page1 used on input line 827.
+(pdftex.def)             Requested size: 597.1896pt x 844.1115pt.
+File: aux/tadpole_press.pdf Graphic file (type pdf)
+<use aux/tadpole_press.pdf, page 1>
+Package pdftex.def Info: aux/tadpole_press.pdf , page1 used on input line 827.
+(pdftex.def)             Requested size: 562.48961pt x 795.064pt.
+[66]
+File: aux/tadpole_press.pdf Graphic file (type pdf)
+<use aux/tadpole_press.pdf, page 1>
+Package pdftex.def Info: aux/tadpole_press.pdf , page1 used on input line 827.
+(pdftex.def)             Requested size: 562.48961pt x 795.064pt.
+File: aux/tadpole_press.pdf Graphic file (type pdf)
+<use aux/tadpole_press.pdf, page 1>
+Package pdftex.def Info: aux/tadpole_press.pdf , page1 used on input line 827.
+(pdftex.def)             Requested size: 562.48961pt x 795.064pt.
+File: aux/tadpole_press.pdf Graphic file (type pdf)
+<use aux/tadpole_press.pdf, page 1>
+Package pdftex.def Info: aux/tadpole_press.pdf , page1 used on input line 827.
+(pdftex.def)             Requested size: 562.48961pt x 795.064pt.
+ [67
+
+ <./aux/tadpole_press.pdf
+
+pdfTeX warning: pdflatex (file ./aux/tadpole_press.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<aux/tadpole_press.pdf, id=557, page=2, 597.19106pt x 844.11356pt>
+File: aux/tadpole_press.pdf Graphic file (type pdf)
+<use aux/tadpole_press.pdf, page 2>
+Package pdftex.def Info: aux/tadpole_press.pdf , page2 used on input line 827.
+(pdftex.def)             Requested size: 562.48961pt x 795.064pt.
+File: aux/tadpole_press.pdf Graphic file (type pdf)
+<use aux/tadpole_press.pdf, page 2>
+Package pdftex.def Info: aux/tadpole_press.pdf , page2 used on input line 827.
+(pdftex.def)             Requested size: 562.48961pt x 795.064pt.
+File: aux/tadpole_press.pdf Graphic file (type pdf)
+<use aux/tadpole_press.pdf, page 2>
+Package pdftex.def Info: aux/tadpole_press.pdf , page2 used on input line 827.
+(pdftex.def)             Requested size: 562.48961pt x 795.064pt.
+ [68
+
+ <./aux/tadpole_press.pdf
+
+pdfTeX warning: pdflatex (file ./aux/tadpole_press.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<aux/tadpole_press.pdf, id=571, page=3, 597.19106pt x 844.11356pt>
+File: aux/tadpole_press.pdf Graphic file (type pdf)
+<use aux/tadpole_press.pdf, page 3>
+Package pdftex.def Info: aux/tadpole_press.pdf , page3 used on input line 827.
+(pdftex.def)             Requested size: 562.48961pt x 795.064pt.
+File: aux/tadpole_press.pdf Graphic file (type pdf)
+<use aux/tadpole_press.pdf, page 3>
+Package pdftex.def Info: aux/tadpole_press.pdf , page3 used on input line 827.
+(pdftex.def)             Requested size: 562.48961pt x 795.064pt.
+File: aux/tadpole_press.pdf Graphic file (type pdf)
+<use aux/tadpole_press.pdf, page 3>
+Package pdftex.def Info: aux/tadpole_press.pdf , page3 used on input line 827.
+(pdftex.def)             Requested size: 562.48961pt x 795.064pt.
+ [69
+
+ <./aux/tadpole_press.pdf
+
+pdfTeX warning: pdflatex (file ./aux/tadpole_press.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<aux/alzforum_wiki.pdf, id=588, 598.15468pt x 846.0408pt>
+File: aux/alzforum_wiki.pdf Graphic file (type pdf)
+<use aux/alzforum_wiki.pdf>
+Package pdftex.def Info: aux/alzforum_wiki.pdf  used on input line 828.
+(pdftex.def)             Requested size: 598.15321pt x 846.03874pt.
+File: aux/alzforum_wiki.pdf Graphic file (type pdf)
+<use aux/alzforum_wiki.pdf>
+Package pdftex.def Info: aux/alzforum_wiki.pdf  used on input line 828.
+(pdftex.def)             Requested size: 598.15321pt x 846.03874pt.
+<aux/alzforum_wiki.pdf, id=591, page=1, 598.15468pt x 846.0408pt>
+File: aux/alzforum_wiki.pdf Graphic file (type pdf)
+<use aux/alzforum_wiki.pdf, page 1>
+Package pdftex.def Info: aux/alzforum_wiki.pdf , page1 used on input line 828.
+(pdftex.def)             Requested size: 598.15321pt x 846.03874pt.
+File: aux/alzforum_wiki.pdf Graphic file (type pdf)
+<use aux/alzforum_wiki.pdf, page 1>
+Package pdftex.def Info: aux/alzforum_wiki.pdf , page1 used on input line 828.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/alzforum_wiki.pdf Graphic file (type pdf)
+<use aux/alzforum_wiki.pdf, page 1>
+Package pdftex.def Info: aux/alzforum_wiki.pdf , page1 used on input line 828.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/alzforum_wiki.pdf Graphic file (type pdf)
+<use aux/alzforum_wiki.pdf, page 1>
+Package pdftex.def Info: aux/alzforum_wiki.pdf , page1 used on input line 828.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/alzforum_wiki.pdf Graphic file (type pdf)
+<use aux/alzforum_wiki.pdf, page 1>
+Package pdftex.def Info: aux/alzforum_wiki.pdf , page1 used on input line 828.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+ [70
+
+ <./aux/alzforum_wiki.pdf
+
+pdfTeX warning: pdflatex (file ./aux/alzforum_wiki.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<aux/alzforum_wiki.pdf, id=623, page=2, 598.15468pt x 846.0408pt>
+File: aux/alzforum_wiki.pdf Graphic file (type pdf)
+<use aux/alzforum_wiki.pdf, page 2>
+Package pdftex.def Info: aux/alzforum_wiki.pdf , page2 used on input line 828.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/alzforum_wiki.pdf Graphic file (type pdf)
+<use aux/alzforum_wiki.pdf, page 2>
+Package pdftex.def Info: aux/alzforum_wiki.pdf , page2 used on input line 828.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/alzforum_wiki.pdf Graphic file (type pdf)
+<use aux/alzforum_wiki.pdf, page 2>
+Package pdftex.def Info: aux/alzforum_wiki.pdf , page2 used on input line 828.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+ [71
+
+ <./aux/alzforum_wiki.pdf
+
+pdfTeX warning: pdflatex (file ./aux/alzforum_wiki.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<articles/dive.pdf, id=627, 614.295pt x 794.97pt>
+File: articles/dive.pdf Graphic file (type pdf)
+<use articles/dive.pdf>
+Package pdftex.def Info: articles/dive.pdf  used on input line 832.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: articles/dive.pdf Graphic file (type pdf)
+<use articles/dive.pdf>
+Package pdftex.def Info: articles/dive.pdf  used on input line 832.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<articles/dive.pdf, id=630, page=1, 614.295pt x 794.97pt>
+File: articles/dive.pdf Graphic file (type pdf)
+<use articles/dive.pdf, page 1>
+Package pdftex.def Info: articles/dive.pdf , page1 used on input line 832.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: articles/dive.pdf Graphic file (type pdf)
+<use articles/dive.pdf, page 1>
+Package pdftex.def Info: articles/dive.pdf , page1 used on input line 832.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [72]
+File: articles/dive.pdf Graphic file (type pdf)
+<use articles/dive.pdf, page 1>
+Package pdftex.def Info: articles/dive.pdf , page1 used on input line 832.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: articles/dive.pdf Graphic file (type pdf)
+<use articles/dive.pdf, page 1>
+Package pdftex.def Info: articles/dive.pdf , page1 used on input line 832.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: articles/dive.pdf Graphic file (type pdf)
+<use articles/dive.pdf, page 1>
+Package pdftex.def Info: articles/dive.pdf , page1 used on input line 832.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [73
+
+ <./articles/dive.pdf>]
+<articles/ipmi2017.pdf, id=706, 614.295pt x 794.97pt>
+File: articles/ipmi2017.pdf Graphic file (type pdf)
+<use articles/ipmi2017.pdf>
+Package pdftex.def Info: articles/ipmi2017.pdf  used on input line 833.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: articles/ipmi2017.pdf Graphic file (type pdf)
+<use articles/ipmi2017.pdf>
+Package pdftex.def Info: articles/ipmi2017.pdf  used on input line 833.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<articles/ipmi2017.pdf, id=709, page=1, 614.295pt x 794.97pt>
+File: articles/ipmi2017.pdf Graphic file (type pdf)
+<use articles/ipmi2017.pdf, page 1>
+Package pdftex.def Info: articles/ipmi2017.pdf , page1 used on input line 833.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: articles/ipmi2017.pdf Graphic file (type pdf)
+<use articles/ipmi2017.pdf, page 1>
+Package pdftex.def Info: articles/ipmi2017.pdf , page1 used on input line 833.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: articles/ipmi2017.pdf Graphic file (type pdf)
+<use articles/ipmi2017.pdf, page 1>
+Package pdftex.def Info: articles/ipmi2017.pdf , page1 used on input line 833.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: articles/ipmi2017.pdf Graphic file (type pdf)
+<use articles/ipmi2017.pdf, page 1>
+Package pdftex.def Info: articles/ipmi2017.pdf , page1 used on input line 833.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: articles/ipmi2017.pdf Graphic file (type pdf)
+<use articles/ipmi2017.pdf, page 1>
+Package pdftex.def Info: articles/ipmi2017.pdf , page1 used on input line 833.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [74
+
+ <./articles/ipmi2017.pdf>]
+<articles/eshaghi2018.pdf, id=747, 614.97754pt x 793.83177pt>
+File: articles/eshaghi2018.pdf Graphic file (type pdf)
+<use articles/eshaghi2018.pdf>
+Package pdftex.def Info: articles/eshaghi2018.pdf  used on input line 837.
+(pdftex.def)             Requested size: 614.97603pt x 793.82983pt.
+File: articles/eshaghi2018.pdf Graphic file (type pdf)
+<use articles/eshaghi2018.pdf>
+Package pdftex.def Info: articles/eshaghi2018.pdf  used on input line 837.
+(pdftex.def)             Requested size: 614.97603pt x 793.82983pt.
+<articles/eshaghi2018.pdf, id=750, page=1, 614.97754pt x 793.83177pt>
+File: articles/eshaghi2018.pdf Graphic file (type pdf)
+<use articles/eshaghi2018.pdf, page 1>
+Package pdftex.def Info: articles/eshaghi2018.pdf , page1 used on input line 837.
+(pdftex.def)             Requested size: 614.97603pt x 793.82983pt.
+File: articles/eshaghi2018.pdf Graphic file (type pdf)
+<use articles/eshaghi2018.pdf, page 1>
+Package pdftex.def Info: articles/eshaghi2018.pdf , page1 used on input line 837.
+(pdftex.def)             Requested size: 615.26692pt x 794.20532pt.
+ [75]
+File: articles/eshaghi2018.pdf Graphic file (type pdf)
+<use articles/eshaghi2018.pdf, page 1>
+Package pdftex.def Info: articles/eshaghi2018.pdf , page1 used on input line 837.
+(pdftex.def)             Requested size: 615.26692pt x 794.20532pt.
+File: articles/eshaghi2018.pdf Graphic file (type pdf)
+<use articles/eshaghi2018.pdf, page 1>
+Package pdftex.def Info: articles/eshaghi2018.pdf , page1 used on input line 837.
+(pdftex.def)             Requested size: 615.26692pt x 794.20532pt.
+File: articles/eshaghi2018.pdf Graphic file (type pdf)
+<use articles/eshaghi2018.pdf, page 1>
+Package pdftex.def Info: articles/eshaghi2018.pdf , page1 used on input line 837.
+(pdftex.def)             Requested size: 615.26692pt x 794.20532pt.
+ [76
+
+ <./articles/eshaghi2018.pdf>]
+<articles/sustain.pdf, id=803, 597.50829pt x 785.29585pt>
+File: articles/sustain.pdf Graphic file (type pdf)
+<use articles/sustain.pdf>
+Package pdftex.def Info: articles/sustain.pdf  used on input line 838.
+(pdftex.def)             Requested size: 597.50682pt x 785.29393pt.
+File: articles/sustain.pdf Graphic file (type pdf)
+<use articles/sustain.pdf>
+Package pdftex.def Info: articles/sustain.pdf  used on input line 838.
+(pdftex.def)             Requested size: 597.50682pt x 785.29393pt.
+<articles/sustain.pdf, id=806, page=1, 597.50829pt x 785.29585pt>
+File: articles/sustain.pdf Graphic file (type pdf)
+<use articles/sustain.pdf, page 1>
+Package pdftex.def Info: articles/sustain.pdf , page1 used on input line 838.
+(pdftex.def)             Requested size: 597.50682pt x 785.29393pt.
+File: articles/sustain.pdf Graphic file (type pdf)
+<use articles/sustain.pdf, page 1>
+Package pdftex.def Info: articles/sustain.pdf , page1 used on input line 838.
+(pdftex.def)             Requested size: 605.09235pt x 795.26347pt.
+File: articles/sustain.pdf Graphic file (type pdf)
+<use articles/sustain.pdf, page 1>
+Package pdftex.def Info: articles/sustain.pdf , page1 used on input line 838.
+(pdftex.def)             Requested size: 605.09235pt x 795.26347pt.
+File: articles/sustain.pdf Graphic file (type pdf)
+<use articles/sustain.pdf, page 1>
+Package pdftex.def Info: articles/sustain.pdf , page1 used on input line 838.
+(pdftex.def)             Requested size: 605.09235pt x 795.26347pt.
+File: articles/sustain.pdf Graphic file (type pdf)
+<use articles/sustain.pdf, page 1>
+Package pdftex.def Info: articles/sustain.pdf , page1 used on input line 838.
+(pdftex.def)             Requested size: 605.09235pt x 795.26347pt.
+ [77
+
+ <./articles/sustain.pdf>]
+<articles/sustain.pdf, id=880, page=2, 597.50829pt x 785.29585pt>
+File: articles/sustain.pdf Graphic file (type pdf)
+<use articles/sustain.pdf, page 2>
+Package pdftex.def Info: articles/sustain.pdf , page2 used on input line 838.
+(pdftex.def)             Requested size: 605.09235pt x 795.26347pt.
+File: articles/sustain.pdf Graphic file (type pdf)
+<use articles/sustain.pdf, page 2>
+Package pdftex.def Info: articles/sustain.pdf , page2 used on input line 838.
+(pdftex.def)             Requested size: 605.09235pt x 795.26347pt.
+File: articles/sustain.pdf Graphic file (type pdf)
+<use articles/sustain.pdf, page 2>
+Package pdftex.def Info: articles/sustain.pdf , page2 used on input line 838.
+(pdftex.def)             Requested size: 605.09235pt x 795.26347pt.
+ [78
+
+ <./articles/sustain.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 843--844
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 844--845
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 845--846
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 846--847
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 847--849
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 849--850
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 850--851
+
+ []
+
+<reviews/journal_rankings0.pdf, id=1000, 615.25856pt x 795.93356pt>
+File: reviews/journal_rankings0.pdf Graphic file (type pdf)
+<use reviews/journal_rankings0.pdf>
+Package pdftex.def Info: reviews/journal_rankings0.pdf  used on input line 854.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+File: reviews/journal_rankings0.pdf Graphic file (type pdf)
+<use reviews/journal_rankings0.pdf>
+Package pdftex.def Info: reviews/journal_rankings0.pdf  used on input line 854.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+<reviews/journal_rankings0.pdf, id=1003, page=1, 615.25856pt x 795.93356pt>
+File: reviews/journal_rankings0.pdf Graphic file (type pdf)
+<use reviews/journal_rankings0.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings0.pdf , page1 used on input line 854.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+File: reviews/journal_rankings0.pdf Graphic file (type pdf)
+<use reviews/journal_rankings0.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings0.pdf , page1 used on input line 854.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+[79]
+File: reviews/journal_rankings0.pdf Graphic file (type pdf)
+<use reviews/journal_rankings0.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings0.pdf , page1 used on input line 854.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings0.pdf Graphic file (type pdf)
+<use reviews/journal_rankings0.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings0.pdf , page1 used on input line 854.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings0.pdf Graphic file (type pdf)
+<use reviews/journal_rankings0.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings0.pdf , page1 used on input line 854.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+ [80
+
+ <./reviews/journal_rankings0.pdf
+
+pdfTeX warning: pdflatex (file ./reviews/journal_rankings0.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<reviews/journal_rankings1.pdf, id=1132, 615.25856pt x 795.93356pt>
+File: reviews/journal_rankings1.pdf Graphic file (type pdf)
+<use reviews/journal_rankings1.pdf>
+Package pdftex.def Info: reviews/journal_rankings1.pdf  used on input line 855.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+File: reviews/journal_rankings1.pdf Graphic file (type pdf)
+<use reviews/journal_rankings1.pdf>
+Package pdftex.def Info: reviews/journal_rankings1.pdf  used on input line 855.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+<reviews/journal_rankings1.pdf, id=1135, page=1, 615.25856pt x 795.93356pt>
+File: reviews/journal_rankings1.pdf Graphic file (type pdf)
+<use reviews/journal_rankings1.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings1.pdf , page1 used on input line 855.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+File: reviews/journal_rankings1.pdf Graphic file (type pdf)
+<use reviews/journal_rankings1.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings1.pdf , page1 used on input line 855.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings1.pdf Graphic file (type pdf)
+<use reviews/journal_rankings1.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings1.pdf , page1 used on input line 855.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings1.pdf Graphic file (type pdf)
+<use reviews/journal_rankings1.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings1.pdf , page1 used on input line 855.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings1.pdf Graphic file (type pdf)
+<use reviews/journal_rankings1.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings1.pdf , page1 used on input line 855.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+ [81
+
+ <./reviews/journal_rankings1.pdf
+
+pdfTeX warning: pdflatex (file ./reviews/journal_rankings1.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<reviews/journal_rankings2.pdf, id=1261, 615.25856pt x 795.93356pt>
+File: reviews/journal_rankings2.pdf Graphic file (type pdf)
+<use reviews/journal_rankings2.pdf>
+Package pdftex.def Info: reviews/journal_rankings2.pdf  used on input line 856.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+File: reviews/journal_rankings2.pdf Graphic file (type pdf)
+<use reviews/journal_rankings2.pdf>
+Package pdftex.def Info: reviews/journal_rankings2.pdf  used on input line 856.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+<reviews/journal_rankings2.pdf, id=1264, page=1, 615.25856pt x 795.93356pt>
+File: reviews/journal_rankings2.pdf Graphic file (type pdf)
+<use reviews/journal_rankings2.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings2.pdf , page1 used on input line 856.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+File: reviews/journal_rankings2.pdf Graphic file (type pdf)
+<use reviews/journal_rankings2.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings2.pdf , page1 used on input line 856.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings2.pdf Graphic file (type pdf)
+<use reviews/journal_rankings2.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings2.pdf , page1 used on input line 856.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings2.pdf Graphic file (type pdf)
+<use reviews/journal_rankings2.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings2.pdf , page1 used on input line 856.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings2.pdf Graphic file (type pdf)
+<use reviews/journal_rankings2.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings2.pdf , page1 used on input line 856.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+ [82
+
+ <./reviews/journal_rankings2.pdf
+
+pdfTeX warning: pdflatex (file ./reviews/journal_rankings2.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<reviews/journal_rankings2.pdf, id=1396, page=2, 615.25856pt x 795.93356pt>
+File: reviews/journal_rankings2.pdf Graphic file (type pdf)
+<use reviews/journal_rankings2.pdf, page 2>
+Package pdftex.def Info: reviews/journal_rankings2.pdf , page2 used on input line 856.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings2.pdf Graphic file (type pdf)
+<use reviews/journal_rankings2.pdf, page 2>
+Package pdftex.def Info: reviews/journal_rankings2.pdf , page2 used on input line 856.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings2.pdf Graphic file (type pdf)
+<use reviews/journal_rankings2.pdf, page 2>
+Package pdftex.def Info: reviews/journal_rankings2.pdf , page2 used on input line 856.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+ [83
+
+ <./reviews/journal_rankings2.pdf
+
+pdfTeX warning: pdflatex (file ./reviews/journal_rankings2.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<reviews/journal_rankings2.pdf, id=1485, page=3, 615.25856pt x 795.93356pt>
+File: reviews/journal_rankings2.pdf Graphic file (type pdf)
+<use reviews/journal_rankings2.pdf, page 3>
+Package pdftex.def Info: reviews/journal_rankings2.pdf , page3 used on input line 856.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings2.pdf Graphic file (type pdf)
+<use reviews/journal_rankings2.pdf, page 3>
+Package pdftex.def Info: reviews/journal_rankings2.pdf , page3 used on input line 856.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings2.pdf Graphic file (type pdf)
+<use reviews/journal_rankings2.pdf, page 3>
+Package pdftex.def Info: reviews/journal_rankings2.pdf , page3 used on input line 856.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+ [84
+
+ <./reviews/journal_rankings2.pdf
+
+pdfTeX warning: pdflatex (file ./reviews/journal_rankings2.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<reviews/journal_rankings2.pdf, id=1578, page=4, 615.25856pt x 795.93356pt>
+File: reviews/journal_rankings2.pdf Graphic file (type pdf)
+<use reviews/journal_rankings2.pdf, page 4>
+Package pdftex.def Info: reviews/journal_rankings2.pdf , page4 used on input line 856.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings2.pdf Graphic file (type pdf)
+<use reviews/journal_rankings2.pdf, page 4>
+Package pdftex.def Info: reviews/journal_rankings2.pdf , page4 used on input line 856.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings2.pdf Graphic file (type pdf)
+<use reviews/journal_rankings2.pdf, page 4>
+Package pdftex.def Info: reviews/journal_rankings2.pdf , page4 used on input line 856.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+ [85
+
+ <./reviews/journal_rankings2.pdf
+
+pdfTeX warning: pdflatex (file ./reviews/journal_rankings2.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<reviews/journal_rankings3.pdf, id=1589, 615.25856pt x 795.93356pt>
+File: reviews/journal_rankings3.pdf Graphic file (type pdf)
+<use reviews/journal_rankings3.pdf>
+Package pdftex.def Info: reviews/journal_rankings3.pdf  used on input line 857.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+File: reviews/journal_rankings3.pdf Graphic file (type pdf)
+<use reviews/journal_rankings3.pdf>
+Package pdftex.def Info: reviews/journal_rankings3.pdf  used on input line 857.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+<reviews/journal_rankings3.pdf, id=1592, page=1, 615.25856pt x 795.93356pt>
+File: reviews/journal_rankings3.pdf Graphic file (type pdf)
+<use reviews/journal_rankings3.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings3.pdf , page1 used on input line 857.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+File: reviews/journal_rankings3.pdf Graphic file (type pdf)
+<use reviews/journal_rankings3.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings3.pdf , page1 used on input line 857.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings3.pdf Graphic file (type pdf)
+<use reviews/journal_rankings3.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings3.pdf , page1 used on input line 857.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings3.pdf Graphic file (type pdf)
+<use reviews/journal_rankings3.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings3.pdf , page1 used on input line 857.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings3.pdf Graphic file (type pdf)
+<use reviews/journal_rankings3.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings3.pdf , page1 used on input line 857.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+ [86
+
+ <./reviews/journal_rankings3.pdf
+
+pdfTeX warning: pdflatex (file ./reviews/journal_rankings3.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<reviews/journal_rankings4.pdf, id=1719, 615.25856pt x 795.93356pt>
+File: reviews/journal_rankings4.pdf Graphic file (type pdf)
+<use reviews/journal_rankings4.pdf>
+Package pdftex.def Info: reviews/journal_rankings4.pdf  used on input line 858.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+File: reviews/journal_rankings4.pdf Graphic file (type pdf)
+<use reviews/journal_rankings4.pdf>
+Package pdftex.def Info: reviews/journal_rankings4.pdf  used on input line 858.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+<reviews/journal_rankings4.pdf, id=1722, page=1, 615.25856pt x 795.93356pt>
+File: reviews/journal_rankings4.pdf Graphic file (type pdf)
+<use reviews/journal_rankings4.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings4.pdf , page1 used on input line 858.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+File: reviews/journal_rankings4.pdf Graphic file (type pdf)
+<use reviews/journal_rankings4.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings4.pdf , page1 used on input line 858.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings4.pdf Graphic file (type pdf)
+<use reviews/journal_rankings4.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings4.pdf , page1 used on input line 858.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings4.pdf Graphic file (type pdf)
+<use reviews/journal_rankings4.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings4.pdf , page1 used on input line 858.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings4.pdf Graphic file (type pdf)
+<use reviews/journal_rankings4.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings4.pdf , page1 used on input line 858.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+ [87
+
+ <./reviews/journal_rankings4.pdf
+
+pdfTeX warning: pdflatex (file ./reviews/journal_rankings4.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<reviews/journal_rankings5.pdf, id=1803, 615.25856pt x 795.93356pt>
+File: reviews/journal_rankings5.pdf Graphic file (type pdf)
+<use reviews/journal_rankings5.pdf>
+Package pdftex.def Info: reviews/journal_rankings5.pdf  used on input line 859.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+File: reviews/journal_rankings5.pdf Graphic file (type pdf)
+<use reviews/journal_rankings5.pdf>
+Package pdftex.def Info: reviews/journal_rankings5.pdf  used on input line 859.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+<reviews/journal_rankings5.pdf, id=1806, page=1, 615.25856pt x 795.93356pt>
+File: reviews/journal_rankings5.pdf Graphic file (type pdf)
+<use reviews/journal_rankings5.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings5.pdf , page1 used on input line 859.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+File: reviews/journal_rankings5.pdf Graphic file (type pdf)
+<use reviews/journal_rankings5.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings5.pdf , page1 used on input line 859.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings5.pdf Graphic file (type pdf)
+<use reviews/journal_rankings5.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings5.pdf , page1 used on input line 859.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings5.pdf Graphic file (type pdf)
+<use reviews/journal_rankings5.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings5.pdf , page1 used on input line 859.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings5.pdf Graphic file (type pdf)
+<use reviews/journal_rankings5.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings5.pdf , page1 used on input line 859.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+ [88
+
+ <./reviews/journal_rankings5.pdf
+
+pdfTeX warning: pdflatex (file ./reviews/journal_rankings5.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<reviews/journal_rankings6.pdf, id=1920, 615.25856pt x 795.93356pt>
+File: reviews/journal_rankings6.pdf Graphic file (type pdf)
+<use reviews/journal_rankings6.pdf>
+Package pdftex.def Info: reviews/journal_rankings6.pdf  used on input line 860.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+File: reviews/journal_rankings6.pdf Graphic file (type pdf)
+<use reviews/journal_rankings6.pdf>
+Package pdftex.def Info: reviews/journal_rankings6.pdf  used on input line 860.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+<reviews/journal_rankings6.pdf, id=1923, page=1, 615.25856pt x 795.93356pt>
+File: reviews/journal_rankings6.pdf Graphic file (type pdf)
+<use reviews/journal_rankings6.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings6.pdf , page1 used on input line 860.
+(pdftex.def)             Requested size: 615.25705pt x 795.93163pt.
+File: reviews/journal_rankings6.pdf Graphic file (type pdf)
+<use reviews/journal_rankings6.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings6.pdf , page1 used on input line 860.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings6.pdf Graphic file (type pdf)
+<use reviews/journal_rankings6.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings6.pdf , page1 used on input line 860.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings6.pdf Graphic file (type pdf)
+<use reviews/journal_rankings6.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings6.pdf , page1 used on input line 860.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+File: reviews/journal_rankings6.pdf Graphic file (type pdf)
+<use reviews/journal_rankings6.pdf, page 1>
+Package pdftex.def Info: reviews/journal_rankings6.pdf , page1 used on input line 860.
+(pdftex.def)             Requested size: 614.54355pt x 795.0086pt.
+ [89
+
+ <./reviews/journal_rankings6.pdf
+
+pdfTeX warning: pdflatex (file ./reviews/journal_rankings6.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>] [90] [91]
+<articles/hamedtop100.pdf, id=2045, 597.50829pt x 793.83177pt>
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf>
+Package pdftex.def Info: articles/hamedtop100.pdf  used on input line 926.
+(pdftex.def)             Requested size: 597.50682pt x 793.82983pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf>
+Package pdftex.def Info: articles/hamedtop100.pdf  used on input line 926.
+(pdftex.def)             Requested size: 597.50682pt x 793.82983pt.
+<articles/hamedtop100.pdf, id=2048, page=1, 597.50829pt x 793.83177pt>
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 1>
+Package pdftex.def Info: articles/hamedtop100.pdf , page1 used on input line 926.
+(pdftex.def)             Requested size: 597.50682pt x 793.82983pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 1>
+Package pdftex.def Info: articles/hamedtop100.pdf , page1 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+ [92]
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 1>
+Package pdftex.def Info: articles/hamedtop100.pdf , page1 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 1>
+Package pdftex.def Info: articles/hamedtop100.pdf , page1 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 1>
+Package pdftex.def Info: articles/hamedtop100.pdf , page1 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+ [93
+
+ <./articles/hamedtop100.pdf>]
+<articles/hamedtop100.pdf, id=2797, page=2, 597.50829pt x 793.83177pt>
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 2>
+Package pdftex.def Info: articles/hamedtop100.pdf , page2 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 2>
+Package pdftex.def Info: articles/hamedtop100.pdf , page2 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 2>
+Package pdftex.def Info: articles/hamedtop100.pdf , page2 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+ [94
+
+ <./articles/hamedtop100.pdf>]
+<articles/hamedtop100.pdf, id=2837, page=3, 597.50829pt x 793.83177pt>
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 3>
+Package pdftex.def Info: articles/hamedtop100.pdf , page3 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 3>
+Package pdftex.def Info: articles/hamedtop100.pdf , page3 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 3>
+Package pdftex.def Info: articles/hamedtop100.pdf , page3 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+ [95
+
+ <./articles/hamedtop100.pdf>]
+<articles/hamedtop100.pdf, id=2849, page=4, 597.50829pt x 793.83177pt>
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 4>
+Package pdftex.def Info: articles/hamedtop100.pdf , page4 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 4>
+Package pdftex.def Info: articles/hamedtop100.pdf , page4 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 4>
+Package pdftex.def Info: articles/hamedtop100.pdf , page4 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+ [96
+
+ <./articles/hamedtop100.pdf>]
+<articles/hamedtop100.pdf, id=2861, page=5, 597.50829pt x 793.83177pt>
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 5>
+Package pdftex.def Info: articles/hamedtop100.pdf , page5 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 5>
+Package pdftex.def Info: articles/hamedtop100.pdf , page5 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 5>
+Package pdftex.def Info: articles/hamedtop100.pdf , page5 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+ [97
+
+ <./articles/hamedtop100.pdf>]
+<articles/hamedtop100.pdf, id=2866, page=6, 597.50829pt x 793.83177pt>
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 6>
+Package pdftex.def Info: articles/hamedtop100.pdf , page6 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 6>
+Package pdftex.def Info: articles/hamedtop100.pdf , page6 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 6>
+Package pdftex.def Info: articles/hamedtop100.pdf , page6 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+ [98
+
+ <./articles/hamedtop100.pdf>]
+<articles/hamedtop100.pdf, id=2870, page=7, 597.50829pt x 793.83177pt>
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 7>
+Package pdftex.def Info: articles/hamedtop100.pdf , page7 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 7>
+Package pdftex.def Info: articles/hamedtop100.pdf , page7 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 7>
+Package pdftex.def Info: articles/hamedtop100.pdf , page7 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+ [99
+
+ <./articles/hamedtop100.pdf>]
+<articles/hamedtop100.pdf, id=2874, page=8, 597.50829pt x 793.83177pt>
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 8>
+Package pdftex.def Info: articles/hamedtop100.pdf , page8 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 8>
+Package pdftex.def Info: articles/hamedtop100.pdf , page8 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 8>
+Package pdftex.def Info: articles/hamedtop100.pdf , page8 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+ [100
+
+ <./articles/hamedtop100.pdf>]
+<articles/hamedtop100.pdf, id=2878, page=9, 597.50829pt x 793.83177pt>
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 9>
+Package pdftex.def Info: articles/hamedtop100.pdf , page9 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 9>
+Package pdftex.def Info: articles/hamedtop100.pdf , page9 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 9>
+Package pdftex.def Info: articles/hamedtop100.pdf , page9 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+ [101
+
+ <./articles/hamedtop100.pdf>]
+<articles/hamedtop100.pdf, id=2882, page=10, 597.50829pt x 793.83177pt>
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 10>
+Package pdftex.def Info: articles/hamedtop100.pdf , page10 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 10>
+Package pdftex.def Info: articles/hamedtop100.pdf , page10 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 10>
+Package pdftex.def Info: articles/hamedtop100.pdf , page10 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+ [102
+
+ <./articles/hamedtop100.pdf>]
+<articles/hamedtop100.pdf, id=2889, page=11, 597.50829pt x 793.83177pt>
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 11>
+Package pdftex.def Info: articles/hamedtop100.pdf , page11 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 11>
+Package pdftex.def Info: articles/hamedtop100.pdf , page11 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 11>
+Package pdftex.def Info: articles/hamedtop100.pdf , page11 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+ [103
+
+ <./articles/hamedtop100.pdf>]
+<articles/hamedtop100.pdf, id=2914, page=12, 597.50829pt x 793.83177pt>
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 12>
+Package pdftex.def Info: articles/hamedtop100.pdf , page12 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 12>
+Package pdftex.def Info: articles/hamedtop100.pdf , page12 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+File: articles/hamedtop100.pdf Graphic file (type pdf)
+<use articles/hamedtop100.pdf, page 12>
+Package pdftex.def Info: articles/hamedtop100.pdf , page12 used on input line 926.
+(pdftex.def)             Requested size: 598.98381pt x 795.79211pt.
+ [104
+
+ <./articles/hamedtop100.pdf>]
+<aux/adevarul_translation.pdf, id=2920, 598.235pt x 845.1575pt>
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf>
+Package pdftex.def Info: aux/adevarul_translation.pdf  used on input line 931.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf>
+Package pdftex.def Info: aux/adevarul_translation.pdf  used on input line 931.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+<aux/adevarul_translation.pdf, id=2923, page=1, 598.235pt x 845.1575pt>
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 1>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page1 used on input line 931.
+(pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 1>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page1 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+ [105]
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 1>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page1 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 1>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page1 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 1>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page1 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+ [106
+
+ <./aux/adevarul_translation.pdf>]
+<aux/adevarul_translation.pdf, id=2951, page=2, 598.235pt x 845.1575pt>
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 2>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page2 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 2>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page2 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 2>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page2 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+ [107
+
+ <./aux/adevarul_translation.pdf>]
+<aux/adevarul_translation.pdf, id=2956, page=3, 598.235pt x 845.1575pt>
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 3>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page3 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 3>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page3 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 3>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page3 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+ [108
+
+ <./aux/adevarul_translation.pdf>]
+<aux/adevarul_translation.pdf, id=2960, page=4, 598.235pt x 845.1575pt>
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 4>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page4 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 4>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page4 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 4>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page4 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+ [109
+
+ <./aux/adevarul_translation.pdf>]
+<aux/adevarul_translation.pdf, id=2966, page=5, 598.235pt x 845.1575pt>
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 5>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page5 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 5>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page5 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 5>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page5 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+ [110
+
+ <./aux/adevarul_translation.pdf>]
+<aux/adevarul_translation.pdf, id=2986, page=6, 598.235pt x 845.1575pt>
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 6>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page6 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 6>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page6 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 6>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page6 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+ [111
+
+ <./aux/adevarul_translation.pdf>]
+<aux/adevarul_translation.pdf, id=2990, page=7, 598.235pt x 845.1575pt>
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 7>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page7 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 7>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page7 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 7>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page7 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+ [112
+
+ <./aux/adevarul_translation.pdf>]
+<aux/adevarul_translation.pdf, id=2994, page=8, 598.235pt x 845.1575pt>
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 8>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page8 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 8>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page8 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 8>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page8 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+ [113
+
+ <./aux/adevarul_translation.pdf>]
+<aux/adevarul_translation.pdf, id=2998, page=9, 598.235pt x 845.1575pt>
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 9>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page9 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 9>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page9 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 9>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page9 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+ [114
+
+ <./aux/adevarul_translation.pdf>]
+<aux/adevarul_translation.pdf, id=3002, page=10, 598.235pt x 845.1575pt>
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 10>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page10 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 10>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page10 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+File: aux/adevarul_translation.pdf Graphic file (type pdf)
+<use aux/adevarul_translation.pdf, page 10>
+Package pdftex.def Info: aux/adevarul_translation.pdf , page10 used on input line 931.
+(pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
+ [115
+
+ <./aux/adevarul_translation.pdf>]
+<aux/adevarul_wiki.pdf, id=3007, 598.15468pt x 846.0408pt>
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf>
+Package pdftex.def Info: aux/adevarul_wiki.pdf  used on input line 932.
+(pdftex.def)             Requested size: 598.15321pt x 846.03874pt.
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf>
+Package pdftex.def Info: aux/adevarul_wiki.pdf  used on input line 932.
+(pdftex.def)             Requested size: 598.15321pt x 846.03874pt.
+<aux/adevarul_wiki.pdf, id=3010, page=1, 598.15468pt x 846.0408pt>
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 1>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page1 used on input line 932.
+(pdftex.def)             Requested size: 598.15321pt x 846.03874pt.
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 1>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page1 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 1>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page1 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 1>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page1 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 1>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page1 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+ [116
+
+ <./aux/adevarul_wiki.pdf
+
+pdfTeX warning: pdflatex (file ./aux/adevarul_wiki.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<aux/adevarul_wiki.pdf, id=3061, page=2, 598.15468pt x 846.0408pt>
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 2>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page2 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 2>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page2 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 2>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page2 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+ [117
+
+ <./aux/adevarul_wiki.pdf
+
+pdfTeX warning: pdflatex (file ./aux/adevarul_wiki.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<aux/adevarul_wiki.pdf, id=3067, page=3, 598.15468pt x 846.0408pt>
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 3>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page3 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 3>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page3 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 3>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page3 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+ [118
+
+ <./aux/adevarul_wiki.pdf
+
+pdfTeX warning: pdflatex (file ./aux/adevarul_wiki.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<aux/adevarul_wiki.pdf, id=3071, page=4, 598.15468pt x 846.0408pt>
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 4>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page4 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 4>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page4 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 4>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page4 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+ [119
+
+ <./aux/adevarul_wiki.pdf
+
+pdfTeX warning: pdflatex (file ./aux/adevarul_wiki.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<aux/adevarul_wiki.pdf, id=3078, page=5, 598.15468pt x 846.0408pt>
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 5>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page5 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 5>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page5 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 5>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page5 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+ [120
+
+ <./aux/adevarul_wiki.pdf
+
+pdfTeX warning: pdflatex (file ./aux/adevarul_wiki.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<aux/adevarul_wiki.pdf, id=3082, page=6, 598.15468pt x 846.0408pt>
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 6>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page6 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 6>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page6 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/adevarul_wiki.pdf Graphic file (type pdf)
+<use aux/adevarul_wiki.pdf, page 6>
+Package pdftex.def Info: aux/adevarul_wiki.pdf , page6 used on input line 932.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+ [121
+
+ <./aux/adevarul_wiki.pdf
+
+pdfTeX warning: pdflatex (file ./aux/adevarul_wiki.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 944--945
+[]\OT1/cmr/m/n/10.95 (+20) Achievements of the MIT PDA, as listed on the MIT PDA web-site
+ []
+
+[122]
+Underfull \hbox (badness 4660) in paragraph at lines 953--954
+[]\OT1/cmr/m/n/10.95 (+20) Screenshot from the oral pre-sen-ta-tion given by Dr. Wang on the fi-nal re-sults
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 953--954
+\OT1/cmr/m/n/10.95 (+20) of TAD-POLE Chal-lenge, at the Alzheimer's As-so-ci-a-tion In-ter-na-tional Con-fer-ence.
+ []
+
+[123]
+<aux/gscholar_discipline.pdf, id=3094, 598.15468pt x 846.0408pt>
+File: aux/gscholar_discipline.pdf Graphic file (type pdf)
+<use aux/gscholar_discipline.pdf>
+Package pdftex.def Info: aux/gscholar_discipline.pdf  used on input line 966.
+(pdftex.def)             Requested size: 598.15321pt x 846.03874pt.
+File: aux/gscholar_discipline.pdf Graphic file (type pdf)
+<use aux/gscholar_discipline.pdf>
+Package pdftex.def Info: aux/gscholar_discipline.pdf  used on input line 966.
+(pdftex.def)             Requested size: 598.15321pt x 846.03874pt.
+<aux/gscholar_discipline.pdf, id=3097, page=1, 598.15468pt x 846.0408pt>
+File: aux/gscholar_discipline.pdf Graphic file (type pdf)
+<use aux/gscholar_discipline.pdf, page 1>
+Package pdftex.def Info: aux/gscholar_discipline.pdf , page1 used on input line 966.
+(pdftex.def)             Requested size: 598.15321pt x 846.03874pt.
+File: aux/gscholar_discipline.pdf Graphic file (type pdf)
+<use aux/gscholar_discipline.pdf, page 1>
+Package pdftex.def Info: aux/gscholar_discipline.pdf , page1 used on input line 966.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+ [124]
+File: aux/gscholar_discipline.pdf Graphic file (type pdf)
+<use aux/gscholar_discipline.pdf, page 1>
+Package pdftex.def Info: aux/gscholar_discipline.pdf , page1 used on input line 966.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/gscholar_discipline.pdf Graphic file (type pdf)
+<use aux/gscholar_discipline.pdf, page 1>
+Package pdftex.def Info: aux/gscholar_discipline.pdf , page1 used on input line 966.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/gscholar_discipline.pdf Graphic file (type pdf)
+<use aux/gscholar_discipline.pdf, page 1>
+Package pdftex.def Info: aux/gscholar_discipline.pdf , page1 used on input line 966.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+ [125
+
+ <./aux/gscholar_discipline.pdf
+
+pdfTeX warning: pdflatex (file ./aux/gscholar_discipline.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<aux/gscholar_discipline.pdf, id=3128, page=2, 598.15468pt x 846.0408pt>
+File: aux/gscholar_discipline.pdf Graphic file (type pdf)
+<use aux/gscholar_discipline.pdf, page 2>
+Package pdftex.def Info: aux/gscholar_discipline.pdf , page2 used on input line 966.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/gscholar_discipline.pdf Graphic file (type pdf)
+<use aux/gscholar_discipline.pdf, page 2>
+Package pdftex.def Info: aux/gscholar_discipline.pdf , page2 used on input line 966.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/gscholar_discipline.pdf Graphic file (type pdf)
+<use aux/gscholar_discipline.pdf, page 2>
+Package pdftex.def Info: aux/gscholar_discipline.pdf , page2 used on input line 966.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+ [126
+
+ <./aux/gscholar_discipline.pdf
+
+pdfTeX warning: pdflatex (file ./aux/gscholar_discipline.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<aux/gscholar_discipline.pdf, id=3132, page=3, 598.15468pt x 846.0408pt>
+File: aux/gscholar_discipline.pdf Graphic file (type pdf)
+<use aux/gscholar_discipline.pdf, page 3>
+Package pdftex.def Info: aux/gscholar_discipline.pdf , page3 used on input line 966.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/gscholar_discipline.pdf Graphic file (type pdf)
+<use aux/gscholar_discipline.pdf, page 3>
+Package pdftex.def Info: aux/gscholar_discipline.pdf , page3 used on input line 966.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+File: aux/gscholar_discipline.pdf Graphic file (type pdf)
+<use aux/gscholar_discipline.pdf, page 3>
+Package pdftex.def Info: aux/gscholar_discipline.pdf , page3 used on input line 966.
+(pdftex.def)             Requested size: 562.06468pt x 794.99446pt.
+ [127
+
+ <./aux/gscholar_discipline.pdf
+
+pdfTeX warning: pdflatex (file ./aux/gscholar_discipline.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+<aux/esi.pdf, id=3142, 597.50829pt x 845.0471pt>
+File: aux/esi.pdf Graphic file (type pdf)
+<use aux/esi.pdf>
+Package pdftex.def Info: aux/esi.pdf  used on input line 973.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: aux/esi.pdf Graphic file (type pdf)
+<use aux/esi.pdf>
+Package pdftex.def Info: aux/esi.pdf  used on input line 973.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<aux/esi.pdf, id=3145, page=1, 597.50829pt x 845.0471pt>
+File: aux/esi.pdf Graphic file (type pdf)
+<use aux/esi.pdf, page 1>
+Package pdftex.def Info: aux/esi.pdf , page1 used on input line 973.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: aux/esi.pdf Graphic file (type pdf)
+<use aux/esi.pdf, page 1>
+Package pdftex.def Info: aux/esi.pdf , page1 used on input line 973.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+ [128]
+File: aux/esi.pdf Graphic file (type pdf)
+<use aux/esi.pdf, page 1>
+Package pdftex.def Info: aux/esi.pdf , page1 used on input line 973.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: aux/esi.pdf Graphic file (type pdf)
+<use aux/esi.pdf, page 1>
+Package pdftex.def Info: aux/esi.pdf , page1 used on input line 973.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: aux/esi.pdf Graphic file (type pdf)
+<use aux/esi.pdf, page 1>
+Package pdftex.def Info: aux/esi.pdf , page1 used on input line 973.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+ [129
+
+ <./aux/esi.pdf>]
+<aux/esi.pdf, id=3179, page=2, 597.50829pt x 845.0471pt>
+File: aux/esi.pdf Graphic file (type pdf)
+<use aux/esi.pdf, page 2>
+Package pdftex.def Info: aux/esi.pdf , page2 used on input line 973.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: aux/esi.pdf Graphic file (type pdf)
+<use aux/esi.pdf, page 2>
+Package pdftex.def Info: aux/esi.pdf , page2 used on input line 973.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+File: aux/esi.pdf Graphic file (type pdf)
+<use aux/esi.pdf, page 2>
+Package pdftex.def Info: aux/esi.pdf , page2 used on input line 973.
+(pdftex.def)             Requested size: 562.12285pt x 795.00201pt.
+ [130
+
+ <./aux/esi.pdf>] [131] [132] [133] (./main.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 20876 strings out of 474116
+ 403819 string characters out of 5743682
+ 1970187 words of memory out of 5000000
+ 42637 multiletter control sequences out of 15000+600000
+ 577808 words of font info for 194 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,17n,87p,1595b,442s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Light.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on main.pdf (133 pages, 8632743 bytes).
+PDF statistics:
+ 3249 PDF objects out of 3580 (max. 8388607)
+ 1874 compressed objects within 19 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 31553 words of extra memory for PDF output out of 35830 (max. 10000000)
+
